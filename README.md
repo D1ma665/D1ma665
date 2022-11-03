@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - [Link to my CV EN](https://drive.google.com/file/d/1D1uesBBBlOP7PXcwCNB1x8WjIzMG_Ge1/view?usp=share_link)
 - [Link to my CV RU](https://drive.google.com/file/d/1yJbmdPpexFfjYWcCy73oBKYgQ-NNJAN0/view?usp=sharing)
 ### Testing Documentation
+<!--
 - [Check lists]()
 - [Bug reports]()
 - [SQL]()
+-->
 
 ### Tools & Language
 ![Header](https://img.shields.io/badge/Jira-090909?Style=for-the-badge&logo=jira&logoColor=136be1)
