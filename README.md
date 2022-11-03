@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 ## My CV
-- [Link to my CV EN]()
+- [Link to my CV EN](https://drive.google.com/file/d/1D1uesBBBlOP7PXcwCNB1x8WjIzMG_Ge1/view?usp=share_link)
 - [Link to my CV RU](https://drive.google.com/file/d/1yJbmdPpexFfjYWcCy73oBKYgQ-NNJAN0/view?usp=sharing)
 ### Testing Documentation
 - [Check lists]()
